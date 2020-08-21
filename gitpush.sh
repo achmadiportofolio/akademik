@@ -14,7 +14,7 @@
 ### Command arguments can be accessed as
  
 #echo "First->"  $1
-echo "Second->" $2
+#echo "Second->" $2
  
 # You can also access all arguments in an array and use them in a script.
  
